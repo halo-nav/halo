@@ -1,0 +1,3 @@
+[submodule "halo-data"]
+	path = halo-data
+	url = git@github.com:halo-nav/halo-data.git
